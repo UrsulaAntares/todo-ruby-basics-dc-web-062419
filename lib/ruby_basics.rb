@@ -11,7 +11,7 @@ def argue(pro_position)
 end
 
 def greeting(name, language)
-
+  return name + language + "that's enough"
 end
 
 def return_a_value
