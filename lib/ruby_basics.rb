@@ -10,7 +10,7 @@ def argue(pro_position)
   pro_position
 end
 
-def greeting
+def greeting(name, language)
 
 end
 
